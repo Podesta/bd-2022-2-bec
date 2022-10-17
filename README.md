@@ -15,8 +15,8 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 ### Avisos ativos
 
 - Ao criar uma *issue*, selecione um dos *templates*:
-- Dúvida em tópico específico
-- Dúvida fora do fluxo de tópicos
+  - Dúvida em tópico específico
+  - Dúvida fora do fluxo de tópicos
 
 <br>
 <br>
