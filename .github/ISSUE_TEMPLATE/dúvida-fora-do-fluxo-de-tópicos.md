@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-< escreva aqui a sua duvida em detalhes >
+< escreva aqui a sua dúvida em detalhes >
