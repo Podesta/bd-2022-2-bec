@@ -12,7 +12,7 @@ Esclareça suas dúvidas.<br>
    - então, a URL do repositório será https://github.com/contagithub/bd-2022-2-bec, onde _**contagithub**_ é conta do aluno no GitHub (por exemplo, a conta do professor no GitHub é _**plinioleitao**_).
 
 3. Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-2-bec. Esta _issue_ irá identificar cada estudante da disciplina:
-   - o título da _issue_ deve ser "Tópico 01";
+   - o título da _issue_ deve ser "[Resposta] Tópico 01";
    - o conteúdo (corpo) da _issue_ deve possuir:
      - Meu registro acadêmico: coloque aqui o seu registro acadêmico (ou seja, número de matrícula).
      - Meu repositório no GitHub: coloque aqui a URL do seu repositório recém-criado.
