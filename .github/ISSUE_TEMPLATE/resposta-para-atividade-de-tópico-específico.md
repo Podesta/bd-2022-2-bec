@@ -1,5 +1,5 @@
 ---
-name: Atividade de tópico específico
+name: Resposta para atividade de tópico específico
 about: Issue para responder atividade de tópico específico
 title: "[Resposta] Tópico < insira o número do tópico >"
 labels: ''
