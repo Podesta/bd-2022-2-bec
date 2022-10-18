@@ -1,4 +1,4 @@
-### [Tópico T01] - Ambientação com a disciplina (objetivos e metodologia)
+### [Tópico 01] - Ambientação com a disciplina (objetivos e metodologia)
 
 Leia o [plano](../media/bd-2022-2-bec-plano.pdf).<br>
 Esclareça suas dúvidas.<br>
