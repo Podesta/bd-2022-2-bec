@@ -17,6 +17,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - Ao criar uma _**issue**_, selecione um dos _**templates**_:
   - **Dúvida em tópico específico**
   - **Dúvida fora do fluxo de tópicos**
+  - **Resposta à atividade de tópico específico**
 
 <br>
 <br>
