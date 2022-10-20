@@ -8,9 +8,12 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 ### Tópicos ativos
 
-- [Tópico 01](./topicos/topico-01.md)
+- [Tópico 04](./topico-04.md) - Requisitos de Dados - BD Empresa
+- [Tópico 02](./topico-02.md) - O que é Banco de Dados?
+- [Tópico 03](./topico-03.md) - _Checklist_ de conceitos básicos
+- [Tópico 01](./topico-01.md) - Ambientação com a disciplina (objetivos e metodologia)
 - [Todos os tópicos](topicos/topicos.md)
-- [Análise das atividades]()
+- [Resultado das avaliações]()
 
 ### Avisos ativos
 
