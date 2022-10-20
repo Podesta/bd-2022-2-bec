@@ -7,7 +7,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 1. O que é **banco de dados**?
 1. Qual a distinção entre **dados** e **metadados**?
 
-### Tópicos ativos
+### Conteúdo ativo
 
 - [Tópico 01](./topicos/topico-01.md) - Ambientação com a disciplina (objetivos e metodologia)
 - [Tópico 02](./topicos/topico-02.md) - O que é Banco de Dados?
