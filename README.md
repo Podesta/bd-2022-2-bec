@@ -4,7 +4,8 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 ### Para refletir...
 
-1. Qual a distinção entre dados e metadados?
+1. O que é **banco de dados?
+1. Qual a distinção entre **dados e metadados?
 
 ### Tópicos ativos
 
