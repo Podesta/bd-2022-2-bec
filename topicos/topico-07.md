@@ -46,3 +46,7 @@ Sobre ambas as independências de dados, a independência física é mais usual 
 
 1. _Você consegue **elaborar uma interpretação** (a sua interpretação) sobre **modelos de dados**, que foram inicialmente introduzidos no presente tópico?_
    - Em caso negativo, favor estar atento aos comentários em sala de aula e, se possível, exponha as suas dúvidas. Em adição, busque a literatura recomendada pela disciplina.
+
+### Bibliografia
+
+[1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
