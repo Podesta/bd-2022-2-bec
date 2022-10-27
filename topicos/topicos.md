@@ -1,3 +1,4 @@
+[Tópico 06a](./topico-06a.md) - Sistema gerenciador de banco de dados (parte 2)<br>
 [Tópico 06](./topico-06.md) - Sistema gerenciador de banco de dados<br>
 [Tópico 05](./topico-05.md) - Dados e metadados<br>
 [Tópico 04](./topico-04.md) - Requisitos de Dados - BD Empresa<br>
