@@ -1,3 +1,4 @@
+[Tópico 07](./topico-07.md) - Modelo de dados<br>
 [Tópico 06a](./topico-06a.md) - Sistema gerenciador de banco de dados (parte 2)<br>
 [Tópico 06](./topico-06.md) - Sistema gerenciador de banco de dados<br>
 [Tópico 05](./topico-05.md) - Dados e metadados<br>
