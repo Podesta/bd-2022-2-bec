@@ -9,8 +9,9 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 ### Conteúdo ativo
 
-- [Tópico 07](./topicos/topico-07.md) - Modelo de dados<br>
+- [Tópico 07](./topicos/topico-07.md) - Modelo de dados
 - [Tópico 08](./topicos/topico-08.md) - Modelo Relacional (MR) - Primeiros passos e _Checklist_
+- [Tópico 09](./topicos/topico-09.md) - Modelo Relacional (MR) - Restrições de Integridade
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
