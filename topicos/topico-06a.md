@@ -1,4 +1,4 @@
-## [Tópico 06] - Sistema gerenciador de banco de dados
+## [Tópico 06a] - Sistema gerenciador de banco de dados
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 Um Sistema de Gerenciador de Banco de Dados (SGBD) é um **software** que apoia os usuários na criação e manutenção de um banco de dados. O termo ***usuários*** é empregado aqui com sentido amplo e inclui: *administrador de banco de dados*, *projetista de banco de dados*, *usuário final*, *programador de aplicação*, etc.
