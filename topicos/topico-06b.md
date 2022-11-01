@@ -1,4 +1,4 @@
-## [Tópico T06a] - Sistema gerenciador de banco de dados (parte 2)
+## [Tópico T06b] - Sistema gerenciador de banco de dados (parte 2)
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 ### Escalonamento de transações
