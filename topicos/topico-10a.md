@@ -63,7 +63,7 @@ Avalie se as consultas abaixo podem ser atendidas pelo banco de dados **BDEmpres
 (n1) que supervisores trabalham em departamentos distintos dos seus supervisionados ?<br>
 (o1) que supervisores são mais jovens que algum de seus supervisionados ?<br>
 
-**Questão 2)**<br>
+**Questão 3)**<br>
 Sobre as sentenças abaixo, marque V para verdadeiro e F para falso:<br>
 (  ) um dependente é identificado somente pelo atributo Nome;<br>
 (  ) um empregado pode possuir diversos supervisores;<br>
