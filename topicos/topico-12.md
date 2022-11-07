@@ -123,7 +123,7 @@ SELECT SUPERVISIONADO.Pnome, SUPERVISOR.Pnome<br>
 FROM FUNCIONARIO AS SUPERVISIONADO, FUNCIONARIO AS SUPERVISOR<br>
 WHERE SUPERVISIONADO.Cpf_supervisor = SUPERVISOR.CPF
 
-### Exercício
+## Exercício
 
 Considere o esquema da relação PRODUTO:<br>
 &#8718; PRODUTO(<ins>CodProduto</ins>, Descrição, Preco), cuja chave primária (PK) é **CodProduto**.<br>
