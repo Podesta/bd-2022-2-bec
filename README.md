@@ -27,4 +27,5 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 <br>
 <br>
-<img src="./media/tobias-fischer-PkbZahEG2Ng-unsplash.jpg" width="500">
+<img src="./media/fig-bd-ilustracao.jpg" width="250">
+<img src="./media/tobias-fischer-PkbZahEG2Ng-unsplash.jpg" width="250">
