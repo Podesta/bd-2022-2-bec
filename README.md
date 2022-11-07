@@ -15,6 +15,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - [Tópico T10a](./topicos/topico-10a.md) - Modelo Relacional (MR) - Exercício (parte 1)
 - [Tópico T10b](./topicos/topico-10b.md) - Modelo Relacional (MR) - Exercício (parte 2)
 - [Tópico T11](./topicos/topico-11.md) - Álgebra Relacional - Fundamentos e Primeiras operações
+- [Tópico T12](./topicos/topico-12.md) - Álgebra Relacional - Produto Cartesiano e Junção
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
