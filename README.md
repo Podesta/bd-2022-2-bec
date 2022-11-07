@@ -4,16 +4,10 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 ### Para refletir...
 
-1. O que é **banco de dados**?
-1. Qual a distinção entre **dados** e **metadados**?
+1. Conforme o Modelo Relacional, qual a distinção entre **relação** e **tabela**?
 
 ### Conteúdo ativo
 
-- [Tópico 07](./topicos/topico-07.md) - Modelo de dados
-- [Tópico 08](./topicos/topico-08.md) - Modelo Relacional (MR) - Primeiros passos e _Checklist_
-- [Tópico 09](./topicos/topico-09.md) - Modelo Relacional (MR) - Restrições de Integridade
-- [Tópico T10a](./topicos/topico-10a.md) - Modelo Relacional (MR) - Exercício (parte 1)
-- [Tópico T10b](./topicos/topico-10b.md) - Modelo Relacional (MR) - Exercício (parte 2)
 - [Tópico T11](./topicos/topico-11.md) - Álgebra Relacional - Fundamentos e Primeiras operações
 - [Tópico T12](./topicos/topico-12.md) - Álgebra Relacional - Produto Cartesiano e Junção
 - [Todos os tópicos](topicos/topicos.md)
