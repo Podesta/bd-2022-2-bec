@@ -69,7 +69,8 @@ A **Operação PROJEÇÃO** é empregada para selecionar atributos de uma relaç
 
 **[Pergunta]** A Operação PROJEÇÃO é comutativa ?<br>
 &#8718; noutras palavras, π<list<sub>1</sub>>(π<list<sub>2</sub>>(R)) = π<list<sub>2</sub>>(π<list<sub>1</sub>>(R)) ?<br>
-- **π <sub>CodProduto, </sub> (π <sub>CodProduto, Preço</sub> (PRODUTO))** = 
+- **π <sub>CodProduto </sub> (π <sub>CodProduto, Preço</sub> (PRODUTO))** =<br>
+**π <sub>CodProduto, Preço</sub> (π <sub>CodProduto</sub> (PRODUTO))** ???
 
 
 #### PROJEÇÃO Exemplo 1:
