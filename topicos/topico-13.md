@@ -42,6 +42,7 @@ supervisionam diretamente um funcionário que trabalha no **departamento 5**?
 |**RESULT1 ← TRABALHA_DEPTO_5 ∪ SUPERVISIONA_DEPTO_5**|RENOMEAÇÃO, ***UNIÃO***|
 |**RESULT2 ← TRABALHA_DEPTO_5 ∩ SUPERVISIONA_DEPTO_5**|RENOMEAÇÃO, ***INTERSEÇÃO***|
 |**RESULT3 ← TRABALHA_DEPTO_5 - SUPERVISIONA_DEPTO_5**|RENOMEAÇÃO, ***DIFERENÇA***|
+|**ANSWER ← π <sub>Pnome, Unome</sub> (RESULT1 \* FUNCIONARIO)**|RENOMEAÇÃO, PROJEÇÃO, JUNÇÃO NATURAL|
 
 #### UNIÃO, INTERSEÇÃO e DIFERENÇA Exemplo 2:
 
