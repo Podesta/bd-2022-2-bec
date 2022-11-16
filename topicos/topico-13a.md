@@ -1,4 +1,4 @@
-## [Tópico T13] - Álgebra Relacional - União, Interseção, Diferença
+## [Tópico T13a] - Álgebra Relacional - União, Interseção, Diferença
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 Para ilustrar as operações da Álgebra Relacional, considere os esquemas (conceitual e lógico) do BD Empresa.
