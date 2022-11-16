@@ -1,4 +1,6 @@
-[Tópico T13](./topico-13.md) - Álgebra Relacional - União, Interseção, Diferença<br>
+[Tópico T14](./topico-14.md) - Álgebra Relacional - Divisão, Função Agregada, Agrupamento<br>
+[Tópico T13b](./topico-13b.md) - Álgebra Relacional - Junção _vs._ União, Interseção, Diferença<br>
+[Tópico T13a](./topico-13a.md) - Álgebra Relacional - União, Interseção, Diferença<br>
 [Tópico T12](./topico-12.md) - Álgebra Relacional - Produto Cartesiano e Junção<br>
 [Tópico T11](./topico-11.md) - Álgebra Relacional - Fundamentos e Primeiras operações<br>
 [Tópico T10b](./topico-10b.md) - Modelo Relacional (MR) - Exercício (parte 2)<br>
