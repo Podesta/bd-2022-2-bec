@@ -1,3 +1,4 @@
+[Tópico T15](./topico-15.md) - Álgebra Relacional - Vários comandos<br>
 [Tópico T14](./topico-14.md) - Álgebra Relacional - Divisão, Função Agregada, Agrupamento<br>
 [Tópico T13b](./topico-13b.md) - Álgebra Relacional - Junção _vs._ União, Interseção, Diferença<br>
 [Tópico T13a](./topico-13a.md) - Álgebra Relacional - União, Interseção, Diferença<br>
