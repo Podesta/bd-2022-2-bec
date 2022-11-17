@@ -13,6 +13,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - [Tópico T13a](./topicos/topico-13a.md) - Álgebra Relacional - União, Interseção, Diferença
 - [Tópico T13b](./topicos/topico-13b.md) - Álgebra Relacional - Junção _vs._ União, Interseção, Diferença
 - [Tópico T14](./topicos/topico-14.md) - Álgebra Relacional - Divisão, Função Agregada, Agrupamento
+- [Tópico T15](./topicos/topico-15.md) - Álgebra Relacional - Vários comandos
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
