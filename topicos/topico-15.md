@@ -16,3 +16,10 @@ Seja abaixo uma [*ilustração para o banco de dados*](../media/fig-mr-2.jpg) **
 - ρ FUNC (PrimeiroNome, UltimoNome) ( π <sub>Pnome, Unome</sub> ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) ) )
 
 ### Grupo 2: Simples
+
+8)	TRABALHA_EM JJ Fcpf=cpf  FUNCIONARIO
+9)	π Cpf_supervisor (FUNCIONARIO)  π Cpf_gerente (DEPARTAMENTO)
+10) 	π Cpf_supervisor (FUNCIONARIO)  π Cpf_gerente (DEPARTAMENTO)
+11) 	π Cpf_supervisor (FUNCIONARIO) –  π Cpf_gerente (DEPARTAMENTO)
+
+### _Under Construction_
