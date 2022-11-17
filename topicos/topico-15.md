@@ -17,10 +17,10 @@ Seja abaixo uma [*ilustração para o banco de dados*](../media/fig-mr-2.jpg) **
 
 ### Grupo 2: Simples
 
-- TRABALHA_EM JJ Fcpf=cpf  FUNCIONARIO
+- TRABALHA_EM &#8904; <sub>Fcpf=cpf</sub>  FUNCIONARIO
 - π <sub>Cpf_supervisor</sub> (FUNCIONARIO) ∪ π <sub>Cpf_gerente</sub> (DEPARTAMENTO)
 - π <sub>Cpf_supervisor</sub> (FUNCIONARIO) ∩ π <sub>Cpf_gerente</sub> (DEPARTAMENTO)
-- π <sub>Cpf_supervisor</sub> (FUNCIONARIO) –  π <sub>Cpf_gerente</sub> (DEPARTAMENTO)
+- π <sub>Cpf_supervisor</sub> (FUNCIONARIO) – π <sub>Cpf_gerente</sub> (DEPARTAMENTO)
 - ...
 
 ### _Under Construction_
