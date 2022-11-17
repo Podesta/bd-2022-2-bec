@@ -18,9 +18,9 @@ Seja abaixo uma [*ilustração para o banco de dados*](../media/fig-mr-2.jpg) **
 ### Grupo 2: Simples
 
 - TRABALHA_EM JJ Fcpf=cpf  FUNCIONARIO
-- π Cpf_supervisor (FUNCIONARIO)  π Cpf_gerente (DEPARTAMENTO)
-- π Cpf_supervisor (FUNCIONARIO)  π Cpf_gerente (DEPARTAMENTO)
-- π Cpf_supervisor (FUNCIONARIO) –  π Cpf_gerente (DEPARTAMENTO)
+- π <sub>Cpf_supervisor</sub> (FUNCIONARIO) ∪ π <sub>Cpf_gerente</sub> (DEPARTAMENTO)
+- π <sub>Cpf_supervisor</sub> (FUNCIONARIO) ∩ π <sub>Cpf_gerente</sub> (DEPARTAMENTO)
+- π <sub>Cpf_supervisor</sub> (FUNCIONARIO) –  π <sub>Cpf_gerente</sub> (DEPARTAMENTO)
 - ...
 
 ### _Under Construction_
