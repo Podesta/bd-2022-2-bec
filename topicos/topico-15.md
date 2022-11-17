@@ -12,7 +12,7 @@ Seja abaixo uma [*ilustração para o banco de dados*](../media/fig-mr-2.jpg) **
 -	π <sub>Pnome, Unome</sub> ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) )
 -	TRABALHA_EM  X  PROJETO
 - FUNCIONARIO * ( ρ (cpf, Projnumero, Horas) (TRABALHA_EM) * PROJETO )
-- ρ FUNC ( <sub>π Pnome, Unome<sub> ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) ) )
+- ρ FUNC ( π Pnome, Unome ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) ) )
 - ρ FUNC (PrimeiroNome, UltimoNome) ( π <sub>Pnome, Unome</sub> ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) ) )
 
 ### Grupo 2: Simples
