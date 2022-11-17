@@ -75,6 +75,26 @@ Qual o nome dos funcionários que possuem dois ou mais dependentes?
 |RESUMO_DOIS ← σ <sub>Qtde_depend >= 2</sub> (RESUMO)|RENOMEAÇÃO, SELEÇÃO|
 |RESULT ← π <sub>Pnome, Unome</sub> (RESUMO_DOIS * FUNCIONARIO)|RENOMEAÇÃO, JUNÇÃO NATURAL, PROJEÇÃO|
 
+RESUMO
+|Cpf|Qtde_Depend|
+|-|-|
+|33344555587|3|
+|98765432168|1|
+|12345678966|3|
+
+RESUMO_DOIS
+|Cpf|Qtde_Depend|
+|-|-|
+|33344555587|3|
+|12345678966|3|
+
+RESULT
+|Pnome|Unome|
+|-|-|
+|Fernando|Wong|
+|João|Silva|
+
+
 ### Exercício  
 
 Escreva em álgebra relacional as seguintes consultas ao BD Empresa: 
