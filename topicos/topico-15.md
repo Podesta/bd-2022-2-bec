@@ -5,12 +5,14 @@ Seja abaixo uma [*ilustração para o banco de dados*](../media/fig-mr-2.jpg) **
 
 <img src="../media/fig-mr-2.jpg" width="400">
 
-### Grupo 1:	fácil
+### Grupo 1: Fácil
 
-1.	π <ins>Pnome, Unome</ins> (FUNCIONARIO)
-1.	σ <ins>Sexo="F"</ins> (FUNCIONARIO)
-1.	π <ins>Pnome, Unome</ins> ( σ <ins>Sexo="F"</ins> (FUNCIONARIO) )
-1.	TRABALHA_EM  X  PROJETO
-1.	FUNCIONARIO * ( ρ (cpf, Projnumero, Horas) (TRABALHA_EM) * PROJETO )
-1.	ρ FUNC ( <ins>π Pnome, Unome<ins> ( σ <ins>Sexo="F"</ins> (FUNCIONARIO) ) )
-1.	ρ FUNC (PrimeiroNome, UltimoNome) ( π <ins>Pnome, Unome</ins> ( σ <ins>Sexo="F"</ins> (FUNCIONARIO) ) )
+-	π <sub>Pnome, Unome</sub> (FUNCIONARIO)
+-	σ <sub>Sexo="F"</sub> (FUNCIONARIO)
+-	π <sub>Pnome, Unome</sub> ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) )
+-	TRABALHA_EM  X  PROJETO
+- FUNCIONARIO * ( ρ (cpf, Projnumero, Horas) (TRABALHA_EM) * PROJETO )
+- ρ FUNC ( <sub>π Pnome, Unome<sub> ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) ) )
+- ρ FUNC (PrimeiroNome, UltimoNome) ( π <sub>Pnome, Unome</sub> ( σ <sub>Sexo="F"</sub> (FUNCIONARIO) ) )
+
+### Grupo 2: Simples
