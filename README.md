@@ -8,12 +8,11 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 ### Conteúdo ativo
 
-- [Tópico T11](./topicos/topico-11.md) - Álgebra Relacional - Fundamentos e Primeiras operações
-- [Tópico T12](./topicos/topico-12.md) - Álgebra Relacional - Produto Cartesiano e Junção
-- [Tópico T13a](./topicos/topico-13a.md) - Álgebra Relacional - União, Interseção, Diferença
 - [Tópico T13b](./topicos/topico-13b.md) - Álgebra Relacional - Junção _vs._ União, Interseção, Diferença
 - [Tópico T14](./topicos/topico-14.md) - Álgebra Relacional - Divisão, Função Agregada, Agrupamento
 - [Tópico T15](./topicos/topico-15.md) - Álgebra Relacional - Vários comandos
+- [Tópico T16a](./topicos/topico-16a.md) - Álgebra Relacional - Junção Externa
+- [Tópico T16b](./topicos/topico-16b.md) - Álgebra Relacional - Exercícios
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
