@@ -1,4 +1,4 @@
-## [Tópico T15] - Ágebra Relacional (MR) - Vários comandos
+## [Tópico T15] - Álgebra Relacional (MR) - Vários comandos
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 Seja abaixo uma [*ilustração para o banco de dados*](../media/fig-mr-2.jpg) **BD Empresa** [1], conforme Modelo Relacional (MR):
