@@ -1,3 +1,5 @@
+[Tópico T16b](./topico-16b.md) - Álgebra Relacional - Exercícios<br>
+[Tópico T16a](./topico-16a.md) - Álgebra Relacional - Junção Externa<br>
 [Tópico T15](./topico-15.md) - Álgebra Relacional - Vários comandos<br>
 [Tópico T14](./topico-14.md) - Álgebra Relacional - Divisão, Função Agregada, Agrupamento<br>
 [Tópico T13b](./topico-13b.md) - Álgebra Relacional - Junção _vs._ União, Interseção, Diferença<br>
