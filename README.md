@@ -13,6 +13,9 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - [Tópico T15](./topicos/topico-15.md) - Álgebra Relacional - Vários comandos
 - [Tópico T16a](./topicos/topico-16a.md) - Álgebra Relacional - Junção Externa
 - [Tópico T16b](./topicos/topico-16b.md) - Álgebra Relacional - Exercícios
+- [Tópico T17a](./topicos/topico-17a.md) - Álgebra Relacional - Ferramenta RelaX (parte 1)
+- [Tópico T17b](./topicos/topico-17b.md) - Álgebra Relacional - Ferramenta RelaX (parte 2)
+
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
