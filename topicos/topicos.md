@@ -1,3 +1,5 @@
+[Tópico T17b](./topico-17b.md) - Álgebra Relacional - Ferramenta RelaX (parte 2)<br>
+[Tópico T17a](./topico-17a.md) - Álgebra Relacional - Ferramenta RelaX (parte 1)<br>
 [Tópico T16b](./topico-16b.md) - Álgebra Relacional - Exercícios<br>
 [Tópico T16a](./topico-16a.md) - Álgebra Relacional - Junção Externa<br>
 [Tópico T15](./topico-15.md) - Álgebra Relacional - Vários comandos<br>
