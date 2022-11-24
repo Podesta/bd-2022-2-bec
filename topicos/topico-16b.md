@@ -9,6 +9,10 @@ Escreva em álgebra relacional as seguintes consultas:
 
 1. Qual o nome dos projetos que o funcionário "João B Silva" trabalha em?<br>
 
+JOAO_CPF ← π <sub>Cpf</sub> ( σ <sub>Pnome='Joao' AND Minicial='B' AND Unome='Silva'</sub> (FUNCIONARIO) )<br>
+JOAO_PNR ← π <sub>Pnr</sub> ( JOAO_CPF ⨝ <sub>Cpf = Fcpf</sub> TRABALHA_EM )<br>
+<< expressão para nome dos projetos ?? >><br>
+
 **JOAO_CPF**
 |Cpf|
 |-|
@@ -21,9 +25,9 @@ Escreva em álgebra relacional as seguintes consultas:
 |2|
 
 1. Qual o nome dos projetos que o funcionário "João B Silva" trabalha em?
-JOAO_CPF ← π <sub>Cpf</sub> ( σ <sub>Pnome='Joao' AND Minicial='B' AND Unome='Silva'</sub> (FUNCIONARIO) )
-JOAO_PNR ← π <sub>Pnr</sub> ( JOAO_CPF ⨝ <sub>Cpf = Fcpf</sub> TRABALHA_EM )
-RESULT ← π <sub>Projnome</sub> ( JOAO_PNR ⨝ <sub>Pnr = Projnumero</sub> PROJETO )
+JOAO_CPF ← π <sub>Cpf</sub> ( σ <sub>Pnome='Joao' AND Minicial='B' AND Unome='Silva'</sub> (FUNCIONARIO) )<br>
+JOAO_PNR ← π <sub>Pnr</sub> ( JOAO_CPF ⨝ <sub>Cpf = Fcpf</sub> TRABALHA_EM )<br>
+RESULT ← π <sub>Projnome</sub> ( JOAO_PNR ⨝ <sub>Pnr = Projnumero</sub> PROJETO )<br>
 
 3. Qual o nome das pessoas que não trabalham em qualquer dos projetos que o funcionário "João B Silva" trabalha em? Pessoas que não trabalham em qualquer projeto ESTÃO INCLUÍDAS no resultado da consulta.<br>
 4. Qual o nome das pessoas em que todos os projetos que trabalham em estão entre os projetos que o funcionário "João B Silva" trabalha em? Pessoas que não trabalham em qualquer projeto NÃO ESTÃO INCLUÍDAS no resultado da consulta.<br>
