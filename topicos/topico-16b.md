@@ -28,6 +28,8 @@ JOAO_CPF ← π <sub>Cpf</sub> ( σ <sub>Pnome='Joao' AND Minicial='B' AND Unome
 JOAO_PNR ← π <sub>Pnr</sub> ( JOAO_CPF ⨝ <sub>Cpf = Fcpf</sub> TRABALHA_EM )<br>
 RESULT ← π <sub>Projnome</sub> ( JOAO_PNR ⨝ <sub>Pnr = Projnumero</sub> PROJETO )<br>
 
+1. Qual o nome das pessoas que trabalham em pelo menos um dos projetos que o funcionário "João B Silva" trabalha em?<br>
+
 1. Qual o nome das pessoas que não trabalham em qualquer dos projetos que o funcionário "João B Silva" trabalha em? Pessoas que não trabalham em qualquer projeto ESTÃO INCLUÍDAS no resultado da consulta.<br>
 
 ρ CPF_JOAO ( π Cpf (σ <sub>Pnome="João" AND Minicial="B" AND Unome="Silva"</sub> (FUNCIONARIO) ) )<br>
