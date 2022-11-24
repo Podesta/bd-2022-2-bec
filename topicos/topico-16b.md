@@ -29,6 +29,13 @@ JOAO_PNR ← π <sub>Pnr</sub> ( JOAO_CPF ⨝ <sub>Cpf = Fcpf</sub> TRABALHA_EM 
 RESULT ← π <sub>Projnome</sub> ( JOAO_PNR ⨝ <sub>Pnr = Projnumero</sub> PROJETO )<br>
 
 2. Qual o nome das pessoas que trabalham em pelo menos um dos projetos que o funcionário "João B Silva" trabalha em?<br>
+_Na sintaxe da ferramenta RelaX ..._<br>
+JOAO_CPF = π Cpf ( σ Pnome='Joao' AND Minicial='B' AND Unome='Silva' (FUNCIONARIO) )<br>
+JOAO_PNR = π Pnr ( JOAO_CPF ⨝ Cpf = Fcpf TRABALHA_EM )<br>
+CPF_RESULT = π Cpf←Fcpf ( JOAO_PNR ⨝ TRABALHA_EM ) - JOAO_CPF<br>
+π Pnome, Minicial, Unome (CPF_RESULT ⨝ FUNCIONARIO)<br>
+
+
 
 3. Qual o nome das pessoas que não trabalham em qualquer dos projetos que o funcionário "João B Silva" trabalha em? Pessoas que não trabalham em qualquer projeto ESTÃO INCLUÍDAS no resultado da consulta.<br>
 
