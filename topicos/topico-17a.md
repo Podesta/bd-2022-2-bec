@@ -10,7 +10,7 @@
 
 ### Seleção de um **Banco de Dados de Trabalho**:
 1. Clique em ‘Datasets’ no menu do canto superior esquerdo.
-1. Clique no banco de dados ‘PhotoDB’ (último banco de dados da lista).<br>_Script_ em [photodb.relax](../data/photodb.relax).<br>O banco de dados possui o seguinte esquema (chave primária em **negrito**):
+1. Clique no banco de dados ‘PhotoDB’ (último banco de dados da lista).<br>_Script_ [AQUI](../data/photodb.relax) ou nesta [URL](https://dbis-uibk.github.io/relax/calc/gist/c306ecf21c6e6d175508d3ac6b4355e7/photodb/0).<br>O banco de dados possui o seguinte esquema (chave primária em **negrito**):
 
 |Significado|Esquema de Relação|
 |-|-|
