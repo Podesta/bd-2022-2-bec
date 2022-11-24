@@ -94,7 +94,7 @@ O símbolo ⨯ é usado na operação:
 O símbolo da JUNÇÃO NATURAL é **⨝**, mas sem o predicado de junção:
 |JUNÇÃO|JUNÇÃO NATURAL|
 |-|-|
-|pessoa = π personId, firstname (ρ personId←id (persons))<br>pessoa ⨝ pessoa.personId=employees.personId employees|pessoa = π personId, firstname (ρ personId←id (persons))<br>**pessoa ⨝ employees**|
+|pessoa = π personId, firstname (ρ personId←id (persons))<br>pessoa ⨝ persons.personId=employees.personId employees|pessoa = π personId, firstname (ρ personId←id (persons))<br>**pessoa ⨝ employees**|
 
 #### Operações FUNÇÕES AGREGADAS e AGRUPAMENTO
 
