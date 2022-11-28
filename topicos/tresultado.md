@@ -11,5 +11,10 @@ Em nosso curso buscamos adotar a terminologia posta no livro de referência [1]:
 #### Avaliação em 08/11/2022
 É correto afirmar que: Um livro pode ser emprestado várias vezes para uma mesma pessoa; **Identificador** em PESSOA pode ter valor nulo; **Numero** em AUTOR deve ser único entre as _tuplas_ da relação; A informação "a quantidade de dias de atraso dos empréstimos devolvidos com atraso" pode ser obtida a partir do banco de dados.
 
+#### Avaliação em 22/11/2022
+1. RESUMO (Numero, Qtde) ← Numero ℑ CONTA Numero (AUTORIA)<br>π <sub>Nome</sub> (AUTOR * σ <sub>Qtde>1</sub> (RESUMO))
+
+É correto afirmar que: Um livro pode ser emprestado várias vezes para uma mesma pessoa; **Identificador** em PESSOA pode ter valor nulo; **Numero** em AUTOR deve ser único entre as _tuplas_ da relação; A informação "a quantidade de dias de atraso dos empréstimos devolvidos com atraso" pode ser obtida a partir do banco de dados.
+
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
