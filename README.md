@@ -13,7 +13,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - [Tópico T17b](./topicos/topico-17b.md) - Álgebra Relacional - Ferramenta RelaX (parte 2)
 - [Tópico T18](./topicos/topico-18.md) - SQL - Introdução, DDL (_Data Definition Language_)
 - [Tópico T19](./topicos/topico-19.md) - SQL - DML (_Data Manipulation Language_): Primeiros comandos
-- [Tópico T20](./topicos/topico-20.md) - SQL - DML (Data Manipulation Language): Junção, Junção Natural, Valor nulo, Junção Externa
+- [Tópico T20](./topicos/topico-20.md) - SQL - DML (_Data Manipulation Language_): Junção, Junção Natural, Valor nulo, Junção Externa
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
