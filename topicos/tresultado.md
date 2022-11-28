@@ -13,7 +13,7 @@ Em nosso curso buscamos adotar a terminologia posta no livro de referência [1]:
 
 #### Avaliação em 22/11/2022
 1. RESUMO_AUTORIA (Numero, Qtde) ← Numero ℑ CONTA Numero ( AUTORIA )<br>RESULTADO ← π <sub>Nome</sub> ( AUTOR * σ <sub>Qtde>1</sub> ( RESUMO_AUTORIA ) )
-1. SEM_EMPRESTIMO (ISBN) ← π <sub>ISBN</sub> ( LIVRO ) – π <sub>ISBN</sub> ( EMPRESTIMO )<br>RESULTADO ← π <sub>TITULO</sub> ( LIVRO * SEM_EMPRESTIMO )
+1. SEM_EMPRESTIMO (ISBN) ← π <sub>ISBN</sub> ( LIVRO ) – π <sub>ISBN</sub> ( EMPRESTIMO )<br>RESULTADO ← π <sub>Titulo</sub> ( LIVRO * SEM_EMPRESTIMO )
 
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
