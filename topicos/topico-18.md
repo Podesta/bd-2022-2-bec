@@ -106,7 +106,7 @@ Baseado no conteúdo do arquivo [agricultura.relax](../data/agricultura.relax):
 1. Escreva em DDL a definição do **BD Agricultura**:
    - Incluir as restrições de integridade de chave, integridade de domínio, integridade de entidade e integridade referencial.
    - Os comandos DDL devem ser executáveis no SGBD PostgreSQL.
-2. Escreva em álgebra relacional a consulta "que produtos estão entre os três preços por quilo mais elevados":
+2. Escreva em álgebra relacional e em SQL a consulta "que produtos estão entre os três preços por quilo mais elevados":
    - Não utilize funções agregadas, agrupamento, e consultas aninhadas.
 
 ### Exercício 3
