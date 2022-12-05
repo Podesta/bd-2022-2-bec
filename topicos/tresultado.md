@@ -16,7 +16,7 @@ Em nosso curso buscamos adotar a terminologia posta no livro de referência [1]:
 1. SEM_EMPRESTIMO (ISBN) ← π <sub>ISBN</sub> ( LIVRO ) – π <sub>ISBN</sub> ( EMPRESTIMO )<br>RESULTADO ← π <sub>Titulo</sub> ( LIVRO * SEM_EMPRESTIMO )
 
 #### Avaliação em 29/11/2022
-1. TEMP ← π Cerveja (σ Bar='Pipoca' (VENDE) )<br>TEMP2 ← π Pessoa ( GOSTA * TEMP )<br>Sintaxe RelaX:<br>TEMP = π Cerveja (σ Bar='Pipoca' (VENDE) )<vr>π Pessoa ( GOSTA ⨝ TEMP )
+1. TEMP ← π Cerveja (σ Bar='Pipoca' (VENDE) )<br>TEMP2 ← π Pessoa ( GOSTA * TEMP )<br>Sintaxe RelaX:<br>TEMP = π Cerveja (σ Bar='Pipoca' (VENDE) )<br>π Pessoa ( GOSTA ⨝ TEMP )
 1. TEMP3 ← π Pessoa (GOSTA) - TEMP2
 1. TEMP4 ← π Pessoa (GOSTA) - TEMP3
 
