@@ -21,5 +21,8 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
   1. TEMP ← π Cerveja (σ Bar='Pipoca' (VENDE) )<br>TEMP2 ← π Pessoa ( GOSTA * TEMP )<br>RESULT ← π Pessoa (GOSTA) - TEMP2<br>**Sintaxe Relax:**<br>TEMP = π Cerveja (σ Bar='Pipoca' (VENDE) )<br>TEMP2 = π Pessoa ( GOSTA ⨝ TEMP )<br>π Pessoa (GOSTA) - TEMP2
 1. TEMP ← π Cerveja (VENDE) - π Cerveja (σ Bar='Pipoca' (VENDE))<br>TEMP2 ← π Pessoa ( GOSTA * TEMP )<br>RESULT ← π Pessoa (GOSTA) - TEMP2<br>**Sintaxe Relax:**<br>TEMP = π Cerveja (VENDE) - π Cerveja (σ Bar='Pipoca' (VENDE))<br>TEMP2 = π Pessoa ( GOSTA ⨝ TEMP )<br>π Pessoa (GOSTA) - TEMP2
 
+#### Avaliação em 06/12/2022
+1. Se seu primeiro nome for _PEDRO_<br>SELECT Nome_dependente, Pnome, Unome<br>FROM DEPENDENTE JOIN FUNCIONARIO ON Fcpf = Cpf<br>WHERE ( Nome_dependente LIKE "PE%" OR Pnome LIKE "PE%" )<br>AND ( Nome_dependente LIKE "%RO" OR Pnome LIKE "%RO" )<br>AND ( CHAR_LENGTH(Nome_dependente) = CHAR_LENGTH("PEDRO") OR CHAR_LENGTH(Pnome) = CHAR_LENGTH("PEDRO") )
+
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
