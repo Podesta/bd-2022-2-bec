@@ -8,10 +8,8 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 ### Conteúdo ativo
 
-- [Tópico T18](./topicos/topico-18.md) - SQL - Introdução, DDL (_Data Definition Language_)
-- [Tópico T19](./topicos/topico-19.md) - SQL - DML (_Data Manipulation Language_): Primeiros comandos
-- [Tópico T20](./topicos/topico-20.md) - SQL - DML (_Data Manipulation Language_): Junção, Junção Natural, Valor nulo, Junção Externa
 - [Tópico T21](./topicos/topico-21.md) - SQL - DML (_Data Manipulation Language_): Funções Agregadas, Agrupamento de dados, Ordenação de Dados
+- [Tópico T22](./topicos/topico-22.md) - SQL - DML (_Data Manipulation Language_): União, Interseção, Diferença, Subconsulta (primeiros passos)
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
