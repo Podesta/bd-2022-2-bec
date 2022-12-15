@@ -1,3 +1,4 @@
+[Tópico T23](./topico-23.md) - SQL - DML (_Data Manipulation Language_): Subconsulta (parte 1)<br>
 [Tópico T22](./topico-22.md) - SQL - DML (_Data Manipulation Language_): União, Interseção, Diferença, Subconsulta (primeiros passos)<br>
 [Tópico T21](./topico-21.md) - SQL - DML (_Data Manipulation Language_): Funções Agregadas, Agrupamento de dados, Ordenação de Dados<br>
 [Tópico T20](./topico-20.md) - SQL - DML (_Data Manipulation Language_): Junção, Junção Natural, Valor nulo, Junção Externa<br>
