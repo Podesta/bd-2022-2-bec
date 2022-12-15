@@ -1,4 +1,4 @@
-## [Tópico 23] - SQL - DML (Data Manipulation Language): Subconsulta (parte 1)
+## [Tópico 23] - SQL - DML (_Data Manipulation Language_): Subconsulta (parte 1)
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 Os exemplos apresentados usam o esquema lógico do **BD Empresa**, conforme abaixo.
