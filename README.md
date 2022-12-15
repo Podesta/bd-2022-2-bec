@@ -10,6 +10,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 - [Tópico T21](./topicos/topico-21.md) - SQL - DML (_Data Manipulation Language_): Funções Agregadas, Agrupamento de dados, Ordenação de Dados
 - [Tópico T22](./topicos/topico-22.md) - SQL - DML (_Data Manipulation Language_): União, Interseção, Diferença, Subconsulta (primeiros passos)
+- [Tópico T23](./topicos/topico-23.md) - SQL - DML (_Data Manipulation Language_): Subconsulta (parte 1)
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
