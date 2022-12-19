@@ -24,5 +24,9 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
 #### Avaliação em 06/12/2022
 1. Se seu primeiro nome for **_PEDRO_**:<br>SELECT Nome_dependente, Pnome, Unome<br>FROM DEPENDENTE JOIN FUNCIONARIO<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ON Fcpf = Cpf<br>WHERE ( Nome_dependente LIKE "PE%" OR Pnome LIKE "PE%" )<br>AND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( Nome_dependente LIKE "%RO" OR Pnome LIKE "%RO" )<br>AND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( CHAR_LENGTH(Nome_dependente) = CHAR_LENGTH("PEDRO") OR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CHAR_LENGTH(Pnome) = CHAR_LENGTH("PEDRO") )
 
+#### Avaliação em 13/12/2022
+1. SELECT AUTOR.Numero, AUTOR.Nome<br>FROM AUTOR NATURAL JOIN AUTORIA<br>GROUP BY AUTOR.Numero, AUTOR.Nome<br>HAVING COUNT(\*) > 1
+2. SELECT LIVRO.ISBN, LIVRO.Titulo<br>FROM LIVRO NATURAL JOIN EMPRESTIMO<br>LIVRO.ISBN, LIVRO.Titulo<br>HAVING COUNT(\*) > 1<br>WHERE EMPRESTIMO.DataFinalReal IS NULL
+
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
