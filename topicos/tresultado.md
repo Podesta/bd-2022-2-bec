@@ -26,7 +26,7 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
 
 #### Avaliação em 13/12/2022
 1. SELECT AUTOR.Numero, AUTOR.Nome<br>FROM AUTOR NATURAL JOIN AUTORIA<br>GROUP BY AUTOR.Numero, AUTOR.Nome<br>HAVING COUNT(\*) > 1
-2. SELECT LIVRO.ISBN, LIVRO.Titulo<br>FROM LIVRO NATURAL JOIN EMPRESTIMO<br>LIVRO.ISBN, LIVRO.Titulo<br>HAVING COUNT(\*) > 1<br>WHERE EMPRESTIMO.DataFinalReal IS NULL
+2. SELECT LIVRO.ISBN, LIVRO.Titulo<br>FROM LIVRO NATURAL JOIN EMPRESTIMO<br>GROUP BY LIVRO.ISBN, LIVRO.Titulo<br>HAVING COUNT(\*) > 1<br>WHERE EMPRESTIMO.DataFinalReal IS NULL
 
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
