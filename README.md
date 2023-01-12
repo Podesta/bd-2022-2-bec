@@ -10,6 +10,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 - [Tópico T25](./topicos/topico-25.md) - Modelo Entidade Relacionamento (MER) - Primeiros passos e _Checklist_
 - [Tópico T26](./topicos/topico-26.md) - Modelo Entidade Relacionamento (MER) - Demanda informacional
+- [Tópico T27](./topicos/topico-27.md) - Tempo para convergir ...
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
