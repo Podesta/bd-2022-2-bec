@@ -29,7 +29,7 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
 2. SELECT LIVRO.ISBN, LIVRO.Titulo<br>FROM LIVRO NATURAL JOIN EMPRESTIMO<br>GROUP BY LIVRO.ISBN, LIVRO.Titulo<br>HAVING COUNT(\*) > 1<br>WHERE EMPRESTIMO.DataFinalReal IS NULL
 
 #### Avaliação em 20/12/2022
-1. SELECT Pnome, Unome<br>FROM FUNCIONARIO<br>WHERE CPF IN<br>( SELECT Fcpf FROM DEPENDENTE GROUP BY Fcpf HAVING COUNT(\*) > 1<br>UNION<br>SELECT Fcpf FROM TRABALHA_PARA GROUP BY Fcpf HAVING COUNT(\*) > 1 )
+1. SELECT Pnome, Unome<br>FROM FUNCIONARIO<br>WHERE CPF IN<br>( SELECT Fcpf FROM DEPENDENTE GROUP BY Fcpf HAVING COUNT(\*) > 1<br>INTERSECT<br>SELECT Fcpf FROM TRABALHA_PARA GROUP BY Fcpf HAVING COUNT(\*) > 1 )
 2. (C1): 01 _tupla(s)_ ; (C2): 02 _tupla(s)_ ; (C3): 02 _tupla(s)_
 
 #### Bibliografia
