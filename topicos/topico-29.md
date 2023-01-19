@@ -12,7 +12,7 @@ Financeira
 
 #### Cliente
 
-1. Quais os métodos de pagamento?
+1. Quais os métodos de pagamento de certo fornecedor?
 1. Quais os fornecedores para certa categoria de produtos?
 1. Quais as categorias de produtos?
 1. Qual o tempo previsto para a entrega de certo pedido?
@@ -20,6 +20,9 @@ Financeira
 1. Quais os cupons de desconto disponíveis para certos fornecedores?
 1. Quais os fornecedores com entrega grátis?
 1. Quais as avaliações de um certo fornecedor?
+1. Quais os fornecedores e preços de determinado produto, incluindo a entrega?
+1. Qual o histórico de pedidos?
+
 
 #### Fornecedor
 
@@ -28,10 +31,17 @@ Financeira
 1. Qual o faturamento em certo período?
 1. Que entregas foram realizadas dentro do tempo previsto?
 1. Quais bairros com maior volume de entregas?
-1. Qual a 
+1. Quais os pedidos em andamento? 
 
 #### Entregador
 
+1. Quantas entregas em determinado período?
+1. Qual a média de entregas em finais de semana?
+1.
+
+#### Financeira
+
+1. Qual a remuneração acordada com cada fornecedor?
 
 
 
