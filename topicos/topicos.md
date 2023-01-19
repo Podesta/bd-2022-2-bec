@@ -1,3 +1,4 @@
+[Tópico T29](./topico-29.md) - Modelo Entidade Relacionamento (MER) - DB Delivery: Requisitos de dados<br>
 [Tópico T28](./topico-28.md) - Modelo Entidade Relacionamento (MER) - Tipo de entidade fraca<br>
 [Tópico T27](./topico-27.md) - Tempo para convergir ...<br>
 [Tópico T26](./topico-26.md) - Modelo Entidade Relacionamento (MER) - Demanda informacional<br>
