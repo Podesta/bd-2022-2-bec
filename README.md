@@ -13,6 +13,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - [Tópico T27](./topicos/topico-27.md) - Tempo para convergir ...
 - [Tópico T28](./topicos/topico-28.md) - Modelo Entidade Relacionamento (MER) - Tipo de entidade fraca
 - [Tópico T29](./topicos/topico-29.md) - Modelo Entidade Relacionamento (MER) - DB Delivery: Requisitos de dados
+- [Tópico T30](./topicos/topico-30.md) - Modelo Entidade Relacionamento (MER) - Exercício
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
