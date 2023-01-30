@@ -32,5 +32,9 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
 1. SELECT Pnome, Unome<br>FROM FUNCIONARIO<br>WHERE CPF IN<br>( SELECT Fcpf FROM DEPENDENTE GROUP BY Fcpf HAVING COUNT(\*) > 1<br>INTERSECT<br>SELECT Fcpf FROM TRABALHA_PARA GROUP BY Fcpf HAVING COUNT(\*) > 1 )
 2. (C1): 01 _tupla(s)_ ; (C2): 02 _tupla(s)_ ; (C3): 02 _tupla(s)_
 
+#### Avaliação em 17/01/2022
+1. SELECT Pnome, Unome<br>FROM FUNCIONARIO<br>WHERE (<br>&nbsp;&nbsp;&nbsp;&nbsp;**SELECT COUNT(\*)**<br>&nbsp;&nbsp;&nbsp;&nbsp;**FROM TRABALHA_EM**<br>&nbsp;&nbsp;&nbsp;&nbsp;**WHERE FUNCIONARIO.Cpf = TRABALHA_EM.Fcpf** )<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN (1, 4)
+2. SELECT Pnome, Unome, Salario<br>FROM FUNCIONARIO<br>WHERE Salario <= ALL  (<br>&nbsp;&nbsp;&nbsp;&nbsp;**SELECT Salario**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FROM FUNCIONARIO** )
+
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
