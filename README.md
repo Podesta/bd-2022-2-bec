@@ -16,6 +16,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - [Tópico T30](./topicos/topico-30.md) - Modelo Entidade Relacionamento (MER) - Exercício
 - [Tópico T31](./topicos/topico-31.md) - Modelo Entidade Relacionamento (MER) - Exercício
 - [Tópico T32](./topicos/topico-32.md) - Modelo Entidade Relacionamento (MER) - Decisões de Projeto
+- [Tópico T33](./topicos/topico-33.md) - Modelo Entidade Relacionamento (MER) - Generalização/Especialização
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
