@@ -1,3 +1,4 @@
+[Tópico T32](./topico-32.md) - Modelo Entidade Relacionamento (MER) - Decisões de Projeto<br>
 [Tópico T31](./topico-31.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
 [Tópico T30](./topico-30.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
 [Tópico T29](./topico-29.md) - Modelo Entidade Relacionamento (MER) - DB Delivery: Requisitos de dados<br>
