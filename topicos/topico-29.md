@@ -12,15 +12,15 @@ Financeira
 
 #### Cliente
 
-1. Quais os métodos de pagamento de certo fornecedor?
-1. Quais os fornecedores para certa categoria de produtos?
+1. Quais os métodos de pagamento de certo vendedor?
+1. Quais os vendedores para certa categoria de produtos?
 1. Quais as categorias de produtos?
 1. Qual o tempo previsto para a entrega de certo pedido?
-1. Quais fornecedores de certa categoria de produtos recebem pedidos em certo horário?
-1. Quais os cupons de desconto disponíveis para certos fornecedores?
-1. Quais os fornecedores com entrega grátis?
-1. Quais as avaliações de um certo fornecedor?
-1. Quais os fornecedores e preços de determinado produto, incluindo a entrega?
+1. Quais vendedores de certa categoria de produtos recebem pedidos em certo horário?
+1. Quais os cupons de desconto disponíveis para certos vendedores?
+1. Quais os vendedores com entrega grátis?
+1. Quais as avaliações de um certo vendedor?
+1. Quais os vendedores e preços de determinado produto, incluindo a entrega?
 1. Qual o histórico de pedidos?
 
 
