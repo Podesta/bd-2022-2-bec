@@ -36,5 +36,9 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
 1. SELECT Pnome, Unome<br>FROM FUNCIONARIO<br>WHERE (<br>&nbsp;&nbsp;&nbsp;&nbsp;**SELECT COUNT(\*)**<br>&nbsp;&nbsp;&nbsp;&nbsp;**FROM TRABALHA_EM**<br>&nbsp;&nbsp;&nbsp;&nbsp;**WHERE FUNCIONARIO.Cpf = TRABALHA_EM.Fcpf** )<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN (1, 4)
 2. SELECT Pnome, Unome, Salario<br>FROM FUNCIONARIO<br>WHERE Salario <= ALL  (<br>&nbsp;&nbsp;&nbsp;&nbsp;**SELECT Salario**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FROM FUNCIONARIO** )
 
+#### Avaliação em 17/01/2022
+Uma proposta de solução abaixo:<br>
+<img src="../media/fig-der-vendas-5.jpg" width="300">
+
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
