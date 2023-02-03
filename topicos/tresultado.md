@@ -38,7 +38,7 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
 
 #### Avaliação em 17/01/2022
 Uma proposta de solução abaixo:<br>
-<img src="../media/fig-der-vendas-5.jpg" width="300">
+<img src="../media/fig-der-vendas-5.jpg" width="600">
 
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
