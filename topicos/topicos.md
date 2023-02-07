@@ -1,3 +1,4 @@
+[Tópico T34](./topico-34.md) - Mapeamento MER para MR (parte 1)<br>
 [Tópico T33](./topico-33.md) - Modelo Entidade Relacionamento (MER) - Generalização/Especialização<br>
 [Tópico T32](./topico-32.md) - Modelo Entidade Relacionamento (MER) - Decisões de Projeto<br>
 [Tópico T31](./topico-31.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
