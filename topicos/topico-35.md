@@ -1,4 +1,4 @@
-## [Tópico T29] - Mapeamento MER para MR (parte 2)
+## [Tópico T35] - Mapeamento MER para MR (parte 2)
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 O conteúdo apresentado usa o esquema conceitual do **BD Empresa**, conforme abaixo.
