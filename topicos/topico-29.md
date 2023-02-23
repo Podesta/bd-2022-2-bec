@@ -45,4 +45,8 @@ Financeira
 
 ### Esquema conceitual para as demandas "Cliente"
 
-<img src="../media/aifome.jpg" width="550">
+<img src="../media/aifome-conceitual.jpg" width="550">
+
+### Esquema logico para as demandas "Cliente"
+
+<img src="../media/aifome-logico.pdf" width="550">
