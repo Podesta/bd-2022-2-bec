@@ -49,4 +49,4 @@ Financeira
 
 ### Esquema logico para as demandas "Cliente"
 
-<img src="../media/aifome-logico.pdf" width="550">
+Clique [AQUI](../media/aifome-logico.pdf)
