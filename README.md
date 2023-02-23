@@ -8,18 +8,10 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 
 ### Conteúdo ativo
 
-- [Tópico T25](./topicos/topico-25.md) - Modelo Entidade Relacionamento (MER) - Primeiros passos e _Checklist_
-- [Tópico T26](./topicos/topico-26.md) - Modelo Entidade Relacionamento (MER) - Demanda informacional
-- [Tópico T27](./topicos/topico-27.md) - Tempo para convergir ...
-- [Tópico T28](./topicos/topico-28.md) - Modelo Entidade Relacionamento (MER) - Tipo de entidade fraca
-- [Tópico T29](./topicos/topico-29.md) - Modelo Entidade Relacionamento (MER) - DB Delivery: Requisitos de dados
-- [Tópico T30](./topicos/topico-30.md) - Modelo Entidade Relacionamento (MER) - Exercício
-- [Tópico T31](./topicos/topico-31.md) - Modelo Entidade Relacionamento (MER) - Exercício
-- [Tópico T32](./topicos/topico-32.md) - Modelo Entidade Relacionamento (MER) - Decisões de Projeto
-- [Tópico T33](./topicos/topico-33.md) - Modelo Entidade Relacionamento (MER) - Generalização/Especialização
 - [Tópico T34](./topicos/topico-34.md) - Mapeamento MER para MR (parte 1)
 - [Tópico T35](./topicos/topico-35.md) - Mapeamento MER para MR (parte 2)
 - [Tópico T36](./topicos/topico-36.md) - Mapeamento MER para MR (parte 3)
+- [Tópico T37](./topicos/topico-37.md) - Mapeamento MER para MR (parte 4)
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
