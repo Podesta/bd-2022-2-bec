@@ -40,5 +40,15 @@ Clique [aqui](https://github.com/plinioleitao/bd-2022-2-bec/blob/main/data/bar.r
 Uma proposta de solução abaixo:<br>
 <img src="../media/fig-der-vendas-5.jpg" width="600">
 
+#### Avaliação em 14/02/2022
+1. 07
+2. 03
+3. 06
+4. 04
+5. Sugestão abaixo.
+<img src="../media/fig-der-fig-avaliacao-20230214.jpg" width="350">
+
+
+
 #### Bibliografia
 [1] ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. Pearson, 2011.
