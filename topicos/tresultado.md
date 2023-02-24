@@ -46,7 +46,7 @@ Uma proposta de solução abaixo:<br>
 3. 06
 4. 04
 5. Sugestão abaixo.
-<img src="../media/fig-der-fig-avaliacao-20230214.jpg" width="350">
+<img src="../media/fig-avaliacao-20230214.jpg" width="350">
 
 
 
