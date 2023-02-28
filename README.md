@@ -12,6 +12,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-2-bec-plano.pdf).
 - [Tópico T35](./topicos/topico-35.md) - Mapeamento MER para MR (parte 2)
 - [Tópico T36](./topicos/topico-36.md) - Mapeamento MER para MR (parte 3)
 - [Tópico T37](./topicos/topico-37.md) - Mapeamento MER para MR (parte 4)
+- [Tópico T38](./topicos/topico-38.md) - Normalização
 - [Todos os tópicos](topicos/topicos.md)
 - [Resultado das avaliações](./topicos/tresultado.md)
 
